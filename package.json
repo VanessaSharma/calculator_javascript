@@ -1,0 +1,29 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurakrouse94/calculator.git"
+  },
+  "keywords": [
+    "practice",
+    "calculator"
+  ],
+  "author": "laura and vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurakrouse94/calculator/issues"
+  },
+  "homepage": "https://github.com/laurakrouse94/calculator#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.3"
+  }
+}
