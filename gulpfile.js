@@ -1,6 +1,10 @@
+'use strict';
 var gulp = require('gulp');
+gulp.task("hello", function() {
+  console.log("hello!");
+});
 
 
-gulp.task('myTask', function(){
-  console.log('hello gulp');
+gulp.task("default", ["hello"]) {
+  console.log("this is a default");
 });

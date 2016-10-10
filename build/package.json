@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "laura.krouse"
+  },
+  "keywords": [
+    "laura",
+    "practice"
+  ],
+  "author": "laura, vanessa",
+  "license": "ISC"
+}
